@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Hugo Snippets",
+		"Hugofy",
+		"JSON Reindent",
+		"Kotlin",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"RawLineEdit",
+	],
+}

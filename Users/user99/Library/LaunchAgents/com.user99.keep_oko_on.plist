@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user99.keep_oko_on</string>
+    <key>ServiceDescription</key>
+    <string>My script to make sure oko is on even if quitted</string>
+    <key>ProgramArguments</key>
+    <array>             
+        <string>/Users/user99/Scripts/oko_always_on.sh</string>
+    </array>
+
+    <key>Nice</key>
+    <integer>1</integer>
+
+    <key>StartInterval</key>
+    <integer>59</integer>
+    
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/user99Test1.err.txt</string>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/user99Test1.out.txt</string>
+</dict>
+</plist>

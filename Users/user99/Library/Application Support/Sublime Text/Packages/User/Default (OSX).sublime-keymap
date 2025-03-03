@@ -1,0 +1,7 @@
+[
+		{ "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": false } },
+		{ "keys": ["alt+shift+up"], "command": "swap_line_up" },
+		{ "keys": ["alt+shift+down"], "command": "swap_line_down" },
+		{ "keys": ["ctrl+g"], "command": "find_under_expand" },
+
+]

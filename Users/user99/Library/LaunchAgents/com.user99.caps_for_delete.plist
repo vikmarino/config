@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user99.caps_for_delete</string>
+    <key>ServiceDescription</key>
+    <string>My script to swap cap lock with backspace</string>
+    <key>ProgramArguments</key>
+    <array>             
+        <string>/Users/user99/Scripts/osx_login_hook.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>

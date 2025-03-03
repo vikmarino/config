@@ -1,0 +1,12 @@
+{
+    "cmd": ["/Users/user99/Library/Application Support/IdeaIC2019.3/Kotlin/kotlinc/bin/kotlinc", "$file", "-include-runtime", "-d", "$file_path/$file_base_name.jar"],
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "working_dir": "$file_path",
+    "selector": "source.kotlin",
+    "variants": [
+        {
+            "name": "Run",
+            "cmd": ["java", "-jar", "$file_path/$file_base_name.jar"]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+	"cmd"       : ["bash", "$file"],
+    "selector"  : "source.shell",
+    "path"      : "/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/user99/.brew/bin"
+}

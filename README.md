@@ -11,7 +11,7 @@
 | `.gitconfig` | Global Git configuration to specify my name and email, shortcuts, colors, and more. |
 | `.gitignore` | The ignore file for android and Mac OS X stuff |
 | `.vimrc` | Vim configuration |
-| `Preferences.sublime-settings` | My Sublime Text 2 user preferences. |
+| `Preferences.sublime-settings` | My Sublime Text user preferences. |
 
 ## Checklist
 
@@ -47,7 +47,7 @@
 
 - Load [`.bash_profile`](/.bash_profile)
 - Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
-- Enable the Sublime Text  `subl` shortcut (done via Bash alias, from `.bash_profile`)
+- Enable the Sublime Text `subl` shortcut (done via Bash alias, from `.bash_profile`)
 - Download and install the [Ocean theme](https://github.com/mdo/ocean-terminal)
 
 ### 5. Tweak Sublime Text just right
@@ -63,4 +63,3 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
   - [Spacegray theme](http://kkga.github.io/spacegray/)
   - [Sass](http://sass-lang.com) package
 - Load user settings from [`Preferences.sublime-settings`](/Preferences.sublime-settings)
-

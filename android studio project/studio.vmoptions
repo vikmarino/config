@@ -1,0 +1,5 @@
+-Xms1280m
+-Xmx6050m
+-XX:MaxPermSize=3050m
+-XX:ReservedCodeCacheSize=98m
+-XX:+UserCompressedOoops
